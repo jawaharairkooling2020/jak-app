@@ -3,7 +3,7 @@
         "live_ip":"103.155.67.69", "test_server_id":"103.155.67.193"
     },
     "status": {
-        "message": "Updated Static IP",
+        "message": "Updated Static IP#123",
         "code": 200
     }
 }
