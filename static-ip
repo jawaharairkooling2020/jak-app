@@ -1,1 +1,9 @@
-{"live_ip":"103.155.67.69", "test_server_id":"103.155.67.193"}
+{
+    "data": {
+        "live_ip":"103.155.67.69", "test_server_id":"103.155.67.193"
+    },
+    "status": {
+        "message": "Updated Static IP",
+        "code": 200
+    }
+}
